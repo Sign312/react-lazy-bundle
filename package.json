@@ -1,0 +1,19 @@
+{
+  "name": "react-lazy-bundle",
+  "version": "0.0.1",
+  "description": "lazyload component for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flypie2/react-lazy-bundle.git"
+  },
+  "author": "flypie2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flypie2/react-lazy-bundle/issues"
+  },
+  "homepage": "https://github.com/flypie2/react-lazy-bundle#readme"
+}
